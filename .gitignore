@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# MyPass local password data
+data.json
+Password Manager/data.json
+
+# macOS
+.DS_Store
